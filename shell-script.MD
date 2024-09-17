@@ -49,4 +49,15 @@
     - If a child process is unable to report its completion status to parent process then it will remain available in system by keeping the PID. It is called as zombie process.
 
   - Ques: https://github.com/orgs/daws-76s/discussions/7 Convert rows in columns and columns into rows.
+
+
+# Shell
+* What is CRONTAB?
+* How would you know the disk usage using the shell script commands?
+* What is the purpose of the shebang line?
+* Tell us about the ‘$#’ use in shell scripting?
+* Write a script to check vowels in a string
+* Differentiate between $@ and $*?
+* How can you determine if a linux server is virtualized or bare-metal?
+* Explain special variables in Shell
   
