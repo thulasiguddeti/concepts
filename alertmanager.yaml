@@ -8,10 +8,10 @@ receivers:
   - name: 'ses'
     email_configs:
     - smarthost: 'email-smtp.us-east-1.amazonaws.com:587'
-      auth_username: 'AKIAUSW45M2WLWUJ24GB'
-      auth_password: "BCa2C3WeJt+K0PLvGP1Ca94PCPGDH2kTVs68mYFkntDd"
-      from: 'joindevops@gmail.com'
-      to: 'info@joindevops.com'
+      auth_username: 'AKIA3FLD2AMYXLQUBMAA'
+      auth_password: 'BMi4WB159wlBVeptO7hocWVj/IxN8D2gsbvDEK2zBDwn'
+      from: 'thulasiguddeti02@gmail.com'
+      to: 'thulasiguddeti06@gmail.com'
       headers:
         subject: 'Prometheus Mail Alerts'
 inhibit_rules:
